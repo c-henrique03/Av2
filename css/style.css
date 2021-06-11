@@ -10,7 +10,9 @@ body{
     background-color: #EDF2EF;
     
 }
-
+.container{
+    display: grid;
+}
 /* ==INÍCIO DO HEADER== */
 
 header{
@@ -48,8 +50,10 @@ li, a{
 /* ==FIM DO HEADER== */
 
 hr {
+    justify-self: center;
     border: 0;
-	border-top: 4px solid #E2E6E3;    
+	border-top: 4px solid #E2E6E3; 
+    width: 70%;   
 }
 
 /* ==INÍCIO DO MAIN== */
