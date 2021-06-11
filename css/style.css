@@ -14,7 +14,7 @@ header{
     display: grid;
     justify-items: center;
     align-items: center;
-    background-color: aqua;
+    background-color: rgb(111, 0, 255);
     height: 100px;
     font-size: 20px;
 
