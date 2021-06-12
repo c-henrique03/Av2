@@ -30,7 +30,7 @@ header{
 
 .links li{
     display: inline;
-    padding: 0px 50px;
+    padding: 50px;
 }
 
 li, a{
@@ -42,10 +42,8 @@ li, a{
 .logo{
    padding: 1rem;
 }
-.logo img{
-    
-  
-}
+
+
 
 /* ==FIM DO HEADER== */
 
@@ -53,7 +51,7 @@ li, a{
     justify-self: center;
     border: 0;
 	border-top: 4px solid #E2E6E3; 
-    width: 70%;   
+    width: 80%;   
 }
 
 /* ==INÍCIO DO MAIN== */
