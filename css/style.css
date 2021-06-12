@@ -33,7 +33,8 @@ header{
 
 .links li{
     display: inline;
-    padding: 6px 50px;
+    margin: 50px ;
+    padding: 09px 09px;
 }
 
 li, a{
@@ -53,6 +54,7 @@ li, a{
 
 /* ==INÍCIO DO MAIN== */
 main{
+ 
 }
 /* ==FIM DO MAIN== */
 
