@@ -31,7 +31,6 @@ header{
 .links li{
     display: inline;
     padding: 10px 50px;
-    transition: 0.8s;
 }
 
 li, a{
