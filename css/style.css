@@ -6,3 +6,36 @@
     border: 0;
     box-sizing: border-box;
 }
+.container{
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-rows: 15vh 80vh 5vh;
+}
+header{
+    display: grid;
+    grid-template-rows: 80% 20%;
+    font-size: 22px;
+}
+.logo{
+    justify-self: center;
+    align-self: center;
+}
+.links{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    width: 100%;
+}
+header a{
+    text-decoration: none;
+    font-family: 'Josefin Sans', sans-serif;
+    color: black;
+    font-weight: 500;
+}
+main{
+    background-color: blue;
+}
+footer{
+    background-color: aqua;
+}
